@@ -4,7 +4,16 @@
 **Senior Engineer for the Real World**  
   
 Systems Thinker · Open Source Builder · Educator
-Building tools, products & systems that are simple, useful, and built to last beyond trends.
+
+
+---
+
+I build tools, products & systems that are simple, useful, and designed to outlive trends.
+
+Currently leading fullstack development at [yubearn](https://yubeearn.vercel.app/) and   [brilliant_tour](https://brilliant-tour.vercel.app//), where I architect high-traffic apps and internal tools that save thousands in external service costs.  
+I specialize in **React**, **Next.js**, **TypeScript**, and **Web3**, with a focus on building resilient systems and smooth user experiences.
+
+---
 
 
   <!-- Tech badges (shields.io style - popular in 2026) -->

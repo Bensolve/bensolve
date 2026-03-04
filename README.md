@@ -1,11 +1,11 @@
-<div align="center">
-  <h1>👋 Hi, I'm Benjamin Boateng </h1>
-  <h3>Senior Engineer for the Real World</h3>
+
+# 👋 Hi, I'm Benjamin Boateng 
+
+**Senior Engineer for the Real World**  
   
-  <p>
-    <strong>Systems Thinker · Open Source Builder · Educator</strong><br>
-    Building tools, products & systems that are simple, useful, and built to last beyond trends.
-  </p>
+Systems Thinker · Open Source Builder · Educator
+Building tools, products & systems that are simple, useful, and built to last beyond trends.
+
 
   <!-- Tech badges (shields.io style - popular in 2026) -->
   <p>
